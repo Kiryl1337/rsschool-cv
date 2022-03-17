@@ -12,6 +12,27 @@ I am 22 years old. I have graduated from Gomel State University named after Fran
 My main goal is to obtain a position of Software Junior JavaScript Developer that will allow me to use my knowledge of programming and teamwork. 
 I am hardworking and always try to do all my best to achieve perfect results
 
+## EXPERIENCE
+March-2019 - May-2019 - Student, GSU F. Scorina  
+Project: Museum  
+Team Size: Dev Team: 1 member  
+Project Role: C# Developer  
+Environment:  
+* MsSQL Database  
+* C#  
+* WPF technology  
+
+Jan-2020 – May-2020 - Student, GSU F. Scorina  
+Project: CourseDiplom  
+Team Size: Dev Team: 1 member  
+Project Role: PHP(Yii2) Developer  
+Environment:  
+* MySQL Database  
+* PHP(YII2)  
+* PHP 5.5, MySQL 5.6, Open Server  
+
+Aug-2020 – Oct-2020 – first work after University as a 1C developer  
+
 ## EDUCATION
 **University**  
 2016 - 2020: Gomel State University named after Francisk Skorina  
