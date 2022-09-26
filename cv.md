@@ -47,7 +47,7 @@ I am hardworking and always try to do all my best to achieve perfect results
 
 **Aug-2022 – Sep-2022** - Student, Rolling Scopes School  
 **Project**: RS-lang  
-**Team Size**: Dev Team: 3 member  
+**Team Size**: Dev Team: 3 members  
 **Project Role**: Front-end Developer  
 **Environment**:  Angular, TypeScript, MongoDB
 **Project description**: an application for learning foreign words has been made, including an electronic textbook with a database of words to study, mini-games for repeating them, a statistics page for tracking individual progress.
