@@ -10,13 +10,8 @@ Location: Gomel, Belarus
 ## ABOUT ME
 
 I am 23 years old. I have graduated from Gomel State University named after Francisk Skorina in 2020. I have studied at the Faculty of Mathematics and Programming Technologies.
-<<<<<<< HEAD
 My main goal is to obtain a position of Software Junior JavaScript Developer that will allow me to use my knowledge of programming and teamwork.
 I am hardworking and always try to do all my best to achieve perfect results.
-=======
-My main goal is to obtain a position of Software Junior JavaScript Developer that will allow me to use my knowledge of programming and teamwork. 
-I am hardworking and always try to do all my best to achieve perfect results.  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 ## EXPERIENCE
 
@@ -26,67 +21,39 @@ I am hardworking and always try to do all my best to achieve perfect results.
 **Project Role**: C# Developer  
 **Environment**: C#, WPF technology, MsSQL Database  
 **Project description**: As a result of the course work, an application was developed to automate the work of the museum. The application has a user-friendly interface for different types of users. Additional application functionality was implemented, for example, printing reports, authorization, etc.  
-<<<<<<< HEAD
 **GitHub link**: <https://github.com/Kiryl1337/Museum>
-=======
-**GitHub link**: <https://github.com/Kiryl1337/Museum>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 **Jan-2020 – May-2020** - Student, GSU F. Scorina  
 **Project**: CourseDiplom  
 **Team Size**: Dev Team: 1 member  
 **Project Role**: PHP(Yii2) Developer  
-<<<<<<< HEAD
 **Environment**: YII2, MySQL Database, PHP 5.5, MySQL 5.6, Open Server  
 **Project description**: An application has been developed that provides support for the process of teachers issuing assignments for course and diploma design and registering students to perform work through a web interface.  
 **GitHub link**: <https://github.com/Kiryl1337/Yii2-project>
-=======
-**Environment**:  YII2, MySQL Database, PHP 5.5, MySQL 5.6, Open Server
-**Project description**: An application has been developed that provides support for the process of teachers issuing assignments for course and diploma design and registering students to perform work through a web interface.  
-**GitHub link**: <https://github.com/Kiryl1337/Yii2-project>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 **June-2022 – July-2022** - Student, Rolling Scopes School  
 **Project**: Online-store  
 **Team Size**: Dev Team: 1 member  
 **Project Role**: Front-end Developer  
-<<<<<<< HEAD
 **Environment**: TypeScript  
 **Project description**: An online laptop store has been created, where products will have the following functionality: filtering, sorting, searching, adding to the cart, resetting filters, resetting settings.  
 **GitHub link**: <https://github.com/Kiryl1337/online-store>
-=======
-**Environment**:  TypeScript  
-**Project description**: An online laptop store has been created, where products will have the following functionality: filtering, sorting, searching, adding to the cart, resetting filters, resetting settings.  
-**GitHub link**: <https://github.com/Kiryl1337/online-store>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 **July-2022 – Aug-2022** - Student, Rolling Scopes School  
 **Project**: Async-race  
 **Team Size**: Dev Team: 1 member  
 **Project Role**: Front-end Developer  
-<<<<<<< HEAD
 **Environment**: TypeScript  
 **Project description**: SPA - game, where you can create and update cars and arrange a race. Work with a server (fetch, REST API), async coding / Promises,JS Animations, DOM Api.  
 **GitHub link**: <https://github.com/Kiryl1337/async-race>
-=======
-**Environment**:  TypeScript  
-**Project description**: SPA - game, where you can create and update cars and arrange a race. Work with a server (fetch, REST API), async coding / Promises,JS Animations, DOM Api.  
-**GitHub link**: <https://github.com/Kiryl1337/async-race>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 **Aug-2022 – Sep-2022** - Student, Rolling Scopes School  
 **Project**: RS-lang  
 **Team Size**: Dev Team: 3 member  
 **Project Role**: Front-end Developer  
-<<<<<<< HEAD
 **Environment**: Angular, TypeScript, MongoDB  
 **Project description**: an application for learning foreign words has been made, including an electronic textbook with a database of words to study, mini-games for repeating them, a statistics page for tracking individual progress.  
 **GitHub link**: <https://github.com/Kiryl1337/rs-lang>
-=======
-**Environment**:  Angular, TypeScript, MongoDB  
-**Project description**: an application for learning foreign words has been made, including an electronic textbook with a database of words to study, mini-games for repeating them, a statistics page for tracking individual progress.  
-**GitHub link**: <https://github.com/Kiryl1337/rs-lang>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 Aug-2020 – Nov-2020 – first work after University as a 1C developer
 
@@ -98,11 +65,7 @@ Specialization: Software engineer
 
 2022 – Rolling Scopes School  
 JavaScript/Front-end 2022Q1  
-<<<<<<< HEAD
 Certificate link: <https://app.rs.school/certificate/kph5v997>
-=======
-Certificate link: <https://app.rs.school/certificate/kph5v997>  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
 
 ## SKILLS
 
@@ -115,13 +78,7 @@ Certificate link: <https://app.rs.school/certificate/kph5v997>
 - GitHub
 
 ## LANGUAGES
-<<<<<<< HEAD
 
 **English**: Intermediate(B1)  
 EF SET Certificate link: <https://www.efset.org/cert/udSU5b>  
 **Russian**: Native speaker(C2)
-=======
-**English**: Intermediate(B1)
-EF SET Certificate link: <https://www.efset.org/cert/udSU5b>  
-**Russian**: Native speaker(C2)  
->>>>>>> 9bc1f0f98f985d8f958effe51d139aaa093c8e04
